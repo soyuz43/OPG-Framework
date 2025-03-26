@@ -1,7 +1,3 @@
-Here’s a structured **README.md** for your project. It balances technical clarity with accessibility for collaborators who may lack domain expertise:
-
----
-
 # OPG: Ontological-Phenomenological Gradient Framework  
 **Version**: 0.2 | **License**: MIT  
 
@@ -78,9 +74,9 @@ If you use OPG in your work, cite:
 @software{OPG_2024,  
   author = {William Stetar},  
   title = {OPG: Ontological-Phenomenological Gradient Framework},  
-  url = {https://github.com/yourname/OPG},  
+  url = {https://github.com/soyuz43/OPG-Framework},  
   version = {0.2},  
-  year = {2024}  
+  year = {2025}  
 }  
 ```  
 
